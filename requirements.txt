@@ -5,7 +5,7 @@ configobj==5.0.6
 cycler==0.10.0
 Flask==0.12.2
 gunicorn==19.9.0
-gyp==0.1
+
 itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
